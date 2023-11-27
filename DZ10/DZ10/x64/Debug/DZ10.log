@@ -1,0 +1,8 @@
+﻿  DZ10.cpp
+C:\Users\student\source\repos\DZ10\DZ10\DZ10.cpp(96,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\student\source\repos\DZ10\DZ10\DZ10.cpp(111,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\student\source\repos\DZ10\DZ10\DZ10.cpp(10,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\student\source\repos\DZ10\DZ10\DZ10.cpp(80,16): message : выполняется компиляция ссылки на экземпляр шаблон функции "void SortUtils::bubbleSort<int>(std::vector<int,std::allocator<int>> &)"
+C:\Users\student\source\repos\DZ10\DZ10\DZ10.cpp(22,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\student\source\repos\DZ10\DZ10\DZ10.cpp(88,16): message : выполняется компиляция ссылки на экземпляр шаблон функции "void SortUtils::InsertionSort<int>(std::vector<int,std::allocator<int>> &)"
+  DZ10.vcxproj -> C:\Users\student\source\repos\DZ10\x64\Debug\DZ10.exe
